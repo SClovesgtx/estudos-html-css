@@ -6,3 +6,7 @@
 p {
     color: red;
 }
+
+body div section {
+    background-color: aliceblue;
+} 
