@@ -6,3 +6,7 @@
 .pai {
     color:red;
 }
+
+.pai.filha {
+    color: blue;
+}
