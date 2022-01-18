@@ -18,3 +18,7 @@ div {
 .pai >.filha {
     color: green;
 }
+
+.pai h1+p {
+    color: green;
+}
