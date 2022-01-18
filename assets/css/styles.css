@@ -6,3 +6,8 @@
 .color-red {
     color: red;
 }
+
+.main-content h2.heading {
+    font-style: italic;
+    color: blueviolet;
+}
