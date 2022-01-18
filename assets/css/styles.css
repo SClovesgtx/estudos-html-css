@@ -19,6 +19,6 @@ div {
     color: green;
 }
 
-.pai h1+p {
+.pai h1~p {
     color: green;
 }
