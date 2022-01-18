@@ -3,10 +3,18 @@
     padding: 0;
 }
 
+div {
+    margin-left: 20px;
+}
+
 .pai {
     color:red;
 }
 
 .pai.filha {
     color: blue;
+}
+
+.pai >.filha {
+    color: green;
 }
