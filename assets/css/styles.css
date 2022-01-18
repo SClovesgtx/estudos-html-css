@@ -22,3 +22,7 @@ div {
 .pai h1~p {
     color: green;
 }
+
+[meu-atributo] {
+    color:aqua
+}
