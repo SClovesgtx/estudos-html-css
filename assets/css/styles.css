@@ -3,10 +3,6 @@
     padding: 0;
 }
 
-p {
+.color-red {
     color: red;
 }
-
-body div section {
-    background-color: aliceblue;
-} 
