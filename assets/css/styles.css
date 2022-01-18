@@ -3,9 +3,6 @@
     padding: 0;
 }
 
-.container {
-    background-color: aqua;
-    height: 120px;
-    width: 120px;
-    display: block;
+p {
+    color: red;
 }
