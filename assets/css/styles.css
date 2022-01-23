@@ -1,28 +1,11 @@
-* {
-    margin: 0;
-    padding: 0;
+.heading {
+    transition: all 1s ease-in-out;
 }
 
-div {
-    margin-left: 20px;
+.heading:hover {
+    background-color: red;
 }
 
-.pai {
-    color:red;
-}
-
-.pai.filha {
-    color: blue;
-}
-
-.pai >.filha {
-    color: green;
-}
-
-.pai h1~p {
-    color: green;
-}
-
-[meu-atributo] {
-    color:aqua
+.pai .lista li:first-child {
+    background-color: red;
 }
