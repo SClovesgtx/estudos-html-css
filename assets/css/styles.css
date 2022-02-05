@@ -28,3 +28,9 @@
     left: 50px;
     z-index: 2;
 }
+
+.outra {
+    position: absolute;
+    top: 10px;
+    left: 20px;
+}
