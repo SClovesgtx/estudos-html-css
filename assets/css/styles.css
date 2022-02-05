@@ -12,4 +12,5 @@ ul li.sticky {
     background-color:darkgray;
     position: sticky;
     top: 0;
+    list-style-type: none;
 }
