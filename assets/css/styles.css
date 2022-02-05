@@ -15,14 +15,16 @@
 }
 
 .filha2 {
-    position: relative;
+    position: absolute;
     background-color:aquamarine;
     left: 100px;
     top: -50px;
+    z-index: 1;
 }
 
 .filha1 {
-    position: relative;
+    position: absolute;
     top: 50px;
     left: 50px;
+    z-index: 2;
 }
